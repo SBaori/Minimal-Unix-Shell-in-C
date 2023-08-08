@@ -13,7 +13,11 @@
 2) Command history navigation
 
 ## Build
-``` gcc shell.c -o shell ```
+``` 
+gcc shell.c -o shell
+```
 
 ## Run
-``` ./shell ```
+``` 
+./shell
+```
