@@ -11,3 +11,9 @@
 ## Planned to add
 1) Cursor Movement
 2) Command history navigation
+
+## Build
+``` gcc shell.c -o shell ```
+
+## Run
+``` ./shell ```
