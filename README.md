@@ -7,6 +7,7 @@
 5) **\##** (Execute commands parallely)
 6) **\>** (Redirects output of some command to a file)
 7) **ctrl+c** and **ctrl+z** signal catching
+8) opening/running terminal programs like nano, vim etc. 
 
 ## Planned to add
 1) Cursor Movement
